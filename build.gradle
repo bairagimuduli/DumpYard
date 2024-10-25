@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+}
+
+group = 'org.mPokket'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // TestNG
+    implementation 'org.testng:testng:7.7.1'
+    testImplementation 'org.testng:testng:7.7.1'
+
+    // Jackson Databind
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.15.2'
+}
+
+test {
+    useTestNG()
+}

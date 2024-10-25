@@ -1,0 +1,40 @@
+{
+  "marvelCharacters": [
+    {
+      "name": "Iron Man",
+      "powers": [
+        "Superhuman Strength",
+        "Flight",
+        "Energy Blasts",
+        "Repulsor Beams"
+      ]
+    },
+    {
+      "name": "Spider-Man",
+      "powers": [
+        "Superhuman Strength",
+        "Superhuman Speed",
+        "Wall Crawling",
+        "Web-Spinning"
+      ]
+    },
+    {
+      "name": "Captain America",
+      "powers": [
+        "Enhanced Strength",
+        "Enhanced Speed",
+        "Enhanced Durability",
+        "Expert Combat Skills"
+      ]
+    },
+    {
+      "name": "Thor",
+      "powers": [
+        "Superhuman Strength",
+        "Flight",
+        "Lightning Manipulation",
+        "Weather Manipulation"
+      ]
+    }
+  ]
+}
